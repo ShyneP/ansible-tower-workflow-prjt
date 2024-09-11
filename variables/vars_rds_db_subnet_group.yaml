@@ -13,5 +13,5 @@ db_subnet_group_description : "RDS instance subnet group"
 
 # Replace with actual subnet IDs
 db_subnets:
-  - subnet-012edebd8277cefd5 
-  - subnet-046261934ba16ad57
+  - subnet-010e3d42ae3446596 
+  - subnet-0f820cee3f6e80104
